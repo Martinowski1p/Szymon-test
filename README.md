@@ -1,6 +1,5 @@
 # Szymon-test
 
-Oczywiście! Oto krótki tekst na temat bezpiecznego korzystania z internetu:
 
 ---
 
@@ -26,5 +25,5 @@ Pamiętając o tych zasadach, możemy korzystać z internetu w sposób bardziej 
 
 ---
 
-Mam nadzieję, że taki tekst Ci odpowiada! Jeśli potrzebujesz czegoś bardziej szczegółowego, daj znać.
+
 
